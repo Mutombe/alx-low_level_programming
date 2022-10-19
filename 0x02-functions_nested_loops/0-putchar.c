@@ -1,6 +1,12 @@
+/**
+ * main - main prints _putchar as output 
+ * 
+ * Returns 0
+ */
+
 #include "main.h"
 
-int main()
+int main(void)
 {
 	printf("_putchar\n");
 
