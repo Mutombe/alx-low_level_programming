@@ -2,7 +2,7 @@
 #include <stdio.h>
 
 /**
- * main - Prints Holberton as message
+ * main-Prints Holberton as message
  *
  * Returns: Always 0 (Success)
  */
