@@ -5,7 +5,7 @@
  * Return:1 on success.
  */
 
-void main(void)
+void print_alphabet(void)
 {
 	char ch;
 
