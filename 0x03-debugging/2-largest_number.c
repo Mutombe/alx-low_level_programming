@@ -7,7 +7,7 @@
  * @c: third integer
  * Return: largest number
  */
-int main(int a, int b,int c)
+int largest_number(int a, int b,int c)
 {
 	int largest;
 
