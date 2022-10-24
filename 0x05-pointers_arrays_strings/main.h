@@ -10,7 +10,7 @@ extern void rev_string(char *s);
 extern void puts2(char *str);
 extern void puts_half(char *str);
 extern void print_array(int *a, int n);
-extern char *strcpy(char *dest, char *src);
+extern char *_strcpy(char *dest, char *src);
 extern int _atoi(char *s);
 
 
