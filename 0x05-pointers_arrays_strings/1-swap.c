@@ -1,6 +1,4 @@
 #include "main.h"
-#include <stdio.h>
-
 /**
  * swap_int - function to swap the values of int a and int b
  * @a: first variable
