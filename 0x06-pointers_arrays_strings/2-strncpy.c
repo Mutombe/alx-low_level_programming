@@ -14,8 +14,8 @@ char *_strncpy(char *dest, char *src, int n)
 
 	for (i = 0; i < n && src[i] != ' '; i++)
 		dest[i] = src[i];
-		for ( ; i < n; i++)
-			dest[i] = ' ';
+	for ( ; i < n; i++)
+		dest[i] = ' ';
 
-		return (dest);
+	return (dest);
 }
