@@ -1,1 +1,3 @@
-Create the static library libmy.a containing all the functions listed below: Create a script called create_static_lib.sh that creates a static library called liball.a from all the .c files that are in the current directory.
+[main f3ab1a4] static
+ 1 file changed, 1 insertion(+)
+ create mode 100644 0x09-static_libraries/README.md
